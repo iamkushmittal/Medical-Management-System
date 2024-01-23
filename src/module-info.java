@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kushmittal
+ *
+ */
+module MedicalManagementSystem {
+}
